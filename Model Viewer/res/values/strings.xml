@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">rascal viewer</string>
+<string-array name="models"><item>Key_B.obj/Key_B_02.obj</item><item>Legoman/LegoMan.obj</item><item>KiaRio/kiario.obj</item>
+
+
+
+</string-array>
+</resources>
